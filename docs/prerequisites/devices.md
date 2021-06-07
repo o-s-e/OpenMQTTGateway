@@ -29,6 +29,8 @@ OpenMQTTGateway is able to scan all the BLE devices that advertise their data so
 | XIAOMI Mi Lamp |MUE4094RT|presence|
 | HONEYWELL |JQJCY01YM|formaldehyde/temperature/humidity/battery|
 | INKBIRD (1)|IBS-TH1|temperature/humidity/battery|
+| INKBIRD (1)|IBS-TH2|temperature/battery|
+| INKBIRD (1)|IBT-4XS|temperature1/temperature2/temperature3/temperature4|
 | ClearGrass |CGG1|temperature/humidity/battery|
 | Qingping |CGDK2|temperature/humidity|
 | Qingping |CGH1|open|
@@ -39,7 +41,8 @@ OpenMQTTGateway is able to scan all the BLE devices that advertise their data so
 | XIAOMI Mi Scale v1 (1)|XMTZC04HM|weight|
 | XIAOMI Mi Scale v2 (1)|XMTZC05HM|weight|
 | XIAOMI Mi band (1)||steps|
-| iNode Energy Meter (1)||power,energy,battery|
+| iNode Energy Meter (1)||power/energy/battery|
+| Thermobeacon|WS02|temperature/humidity/volt|
 
 Exhaustive list [here](https://compatible.openmqttgateway.com/index.php/devices/ble-devices/)
 
